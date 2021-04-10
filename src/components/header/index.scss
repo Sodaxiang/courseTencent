@@ -1,0 +1,12 @@
+.header {
+   min-width: 1240px; 
+   height: 80px;
+   box-shadow: 0 1px 0 0 #ddd;
+   z-index: 1000;
+   .header-inner {
+       margin: 0 auto;
+       width: 1200px;
+       height: 100%;
+      
+   }
+}

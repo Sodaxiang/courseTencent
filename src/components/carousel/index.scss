@@ -1,0 +1,19 @@
+.carousel {
+    width: 1200px;
+    height: 360px;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+
+    .car-list {  
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+
+    .indicator-list {
+        position: absolute;
+        bottom: 20px;
+        right: 20px;
+    }
+}

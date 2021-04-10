@@ -1,0 +1,13 @@
+.indicator-item {
+    float: left;
+    margin-right: 5px;
+    width: 10px;
+    height: 10px;
+    border: 1px solid hsla(0,0%,100%,.6);
+    border-radius: 6px;
+    cursor: pointer;
+
+    &.current {
+        background: #fff;
+    }
+}

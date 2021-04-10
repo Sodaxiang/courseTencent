@@ -1,0 +1,1 @@
+<li class="indicator-item {{current}}"></li>
